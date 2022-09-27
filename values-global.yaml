@@ -8,9 +8,9 @@ global:
 
   datacenter:
 #    cloudProvider: PROVIDE_CLOUDPROVIDER
-    storageClassName: thin
-#    region: PROVIDE_REGION
-    clustername: cluster3
+    storageClassName: localvolume
+    region: us-west-2
+    clustername: hostedcluster
     domain: acic.local
 
   xraylab:
