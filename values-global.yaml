@@ -9,7 +9,7 @@ global:
   datacenter:
 #    cloudProvider: PROVIDE_CLOUDPROVIDER
     storageClassName: ocs-storagecluster-ceph-rbd
-#    region: us-west-2
+    region: us-west-2
     clustername: hostedcluster
     domain: acic.local
 
