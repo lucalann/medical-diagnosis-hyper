@@ -1,4 +1,4 @@
-#{{- if .Values.storageSystem.deploy }}
+# {{- if .Values.storageSystem.deploy }}
 #apiVersion: odf.openshift.io/v1alpha1
 #kind: StorageSystem
 #metadata:
