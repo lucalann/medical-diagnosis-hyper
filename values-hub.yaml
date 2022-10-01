@@ -90,7 +90,7 @@ clusterGroup:
       project: medical-diagnosis
       path: charts/all/opendatahub
 
-     openshift-data-foundations:
+    openshift-data-foundations:
       name: odf
       namespace: openshift-storage
       project: medical-diagnosis
