@@ -10,4 +10,4 @@
 #  kind: {{ .Values.storageSystem.spec.kind }}
 #  name: {{ .Values.storageSystem.spec.name }}
 #  namespace: {{ default .Values.storageSystem.namespace  .Values.storageSystem.spec.namespace }}
-#{{- end }}
+# {{- end }}
