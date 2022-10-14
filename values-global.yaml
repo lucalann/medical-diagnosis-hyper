@@ -8,9 +8,9 @@ global:
 
   datacenter:
 #    cloudProvider: PROVIDE_CLOUDPROVIDER
-    storageClassName: ocs-storagecluster-ceph-rbd
+    storageClassName: thin
     region: us-west-2
-    clustername: hostedcluster
+    clustername: cluster3
     domain: acic.local
 
   xraylab:
@@ -33,4 +33,3 @@ main:
   #  region: us-east-1
   #  clustername: example-sample
   #  domain: patterns.redhat.com
-
