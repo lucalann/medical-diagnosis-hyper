@@ -17,7 +17,7 @@ spec:
           kind: ImageStreamTag
           name: image-generator:latest
     - type: ConfigChange
-  replicas: 1
+  replicas: 0
   revisionHistoryLimit: 3
   template:
     metadata:
