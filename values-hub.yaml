@@ -234,4 +234,3 @@ clusterGroup:
 #          operator: In
 #          values:
 #            - OpenShift
-Footer
